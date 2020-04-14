@@ -52,13 +52,13 @@ stages:
 
         echo "------------- git config -------------"
         # init git config
-        git config --global user.email "yxfdental@126.com"
-        git config --global user.name "satomic"
+        git config --global user.email "347036700@qq.com"
+        git config --global user.name "luanluandehaobaoman"
 
         # config username password
         touch ~/.git-credentials
         cat > ~/.git-credentials << EOF
-        https://satomic:${GIT_PASSWORD}@github.com
+        https://luanluandehaobaoman:${GIT_PASSWORD}@github.com
         EOF
 
 
