@@ -35,7 +35,7 @@ stages:
         ls -l -h -tr
 
         echo "------------- git clone -------------"
-        git clone https://github.com/satomic/pipeline-charts.git
+        git clone https://github.com/luanluandehaobaoman/pipeline-charts.git
         ls -l -h -tr
 
         echo "------------- cd to app dir -------------"
