@@ -14,4 +14,5 @@ you can access docker version here [pipeline](https://hub.docker.com/r/satomic/p
 ```
 docker run -it -p <HOST_PORT>:<HTTP_PORT> satomic/pipeline-httpserver <HTTP_PORT>
 ```
-
+___
+2020.04.15
