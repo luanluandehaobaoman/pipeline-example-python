@@ -76,7 +76,5 @@ stages:
     - sourceName: git-config
       sourceKey: GIT_PASSWORD
 timeout: 60
-branch:
-  include:
-  - master
+branch: {}
 notification: {}
